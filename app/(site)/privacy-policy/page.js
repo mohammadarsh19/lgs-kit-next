@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
       <div className='text-left md:mx-5'>
         <p>Last updated: November 1, 2025</p><br />
 
-        <p>LGS Educate operates this store and website, including all related information, content, features, tools, products and services, in order to provide you, the customer, with a curated shopping experience (the "Services"). LGS Educate is powered by Webhire, which enables us to provide the Services to you. This Privacy Policy describes how we collect, use, and disclose your personal information when you visit, use, or make a purchase or other transaction using the Services or otherwise communicate with us. If there is a conflict between our Terms of Service and this Privacy Policy, this Privacy Policy controls with respect to the collection, processing, and disclosure of your personal information.</p><br />
+        <p>LGS Kit operates this store and website, including all related information, content, features, tools, products and services, in order to provide you, the customer, with a curated shopping experience (the "Services"). LGS Kit is powered by Webhire, which enables us to provide the Services to you. This Privacy Policy describes how we collect, use, and disclose your personal information when you visit, use, or make a purchase or other transaction using the Services or otherwise communicate with us. If there is a conflict between our Terms of Service and this Privacy Policy, this Privacy Policy controls with respect to the collection, processing, and disclosure of your personal information.</p><br />
 
         <p>Please read this Privacy Policy carefully. By using and accessing any of the Services, you acknowledge that you have read this Privacy Policy and understand the collection, use, and disclosure of your information as described in this Privacy Policy.</p><br />
         <h3 className='text-3xl'> Personal Information We Collect or Process</h3><br />
@@ -63,7 +63,7 @@ const PrivacyPolicy = () => {
         <h3 className="text-3xl">Changes to This Privacy Policy</h3><br />
         <p>We may update this Privacy Policy from time to time, including to reflect changes to our practices or for other operational, legal, or regulatory reasons. We will post the revised Privacy Policy on this website, update the "Last updated" date and provide notice as required by applicable law.</p><br />
         <h3 className="text-3xl">Contact</h3><br />
-        <p>Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call or email us at lgsEducate@gmail.com or contact us at GTB Nagar Road Kareli, B-1724/3, Prayagraj, UP, 211016, IN</p><br />
+        <p>Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call or email us at lgsKit@gmail.com or contact us at GTB Nagar Road Kareli, B-1724/3, Prayagraj, UP, 211016, IN</p><br />
       </div>
     </div>
   )
@@ -72,6 +72,6 @@ const PrivacyPolicy = () => {
 export default PrivacyPolicy
 
 export const metadata = {
-  title: "Privacy Policy | LGS Educate",
+  title: "Privacy Policy | LGS Kit",
   description: "Buy the best Ebook in the Market!",
 };

@@ -8,7 +8,7 @@ const OrderConfirmation = () => {
 
     useEffect( () => {
         const timer = setTimeout( () => {
-            window.location.href="https://lgseducate.com/Photoshop-Mastery";
+            window.location.href="https://lgsKit.com/Photoshop-Mastery";
         }, 3000);
 
         return () => clearTimeout(timer);
@@ -26,3 +26,8 @@ const OrderConfirmation = () => {
 }
 
 export default OrderConfirmation
+
+export const metadata = {
+  title: "Order Confirmation | LGS Kit",
+  description: "Buy the best Ebook in the Market!",
+};

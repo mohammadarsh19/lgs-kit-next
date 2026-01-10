@@ -11,7 +11,7 @@ const ShippingDelivery = () => {
           <li>Apart from that you will also get the product download link in the email id provided during checkout. it might take 5 to 10 minutes to get that email.</li>
           <li>If you haven’t received the product through email we recommend you to check the spam folder or promotional tab email. all the files are uploaded in the drive. You can download it whenever you want it.</li><br />
         </ol><br />
-        <p><b>NOTE*</b> FOR MORE DETAILS CONTACT TO OUR SUPPORT TEAM <b>@lgseducate11@gmail.com</b></p>
+        <p><b>NOTE*</b> FOR MORE DETAILS CONTACT TO OUR SUPPORT TEAM <b>@lgsKit@gmail.com</b></p>
       </div>
     </div>
   )
@@ -20,6 +20,6 @@ const ShippingDelivery = () => {
 export default ShippingDelivery
 
 export const metadata = {
-  title: "Shipping & Delivery | LGS Educate",
+  title: "Shipping & Delivery | LGS Kit",
   description: "Buy the best Ebook in the Market!",
 };

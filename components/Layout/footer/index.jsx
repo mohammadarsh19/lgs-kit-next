@@ -30,7 +30,7 @@ const Footer = () => {
                     Meta™ is a trademark of Meta™ Inc. As stipulated by law. We are selling digital products and give you the service. 
                     We are not responsible if you purchased and then said i don't know how to use the product.
                 </p>
-                <p className="text-center mt-4 text-gray-400 font-semibold pb-20"> &copy; {new Date().getFullYear()} Powered By: <Link href='/Photoshop-Mastery'>LGS Educate</Link> </p>
+                <p className="text-center mt-4 text-gray-400 font-semibold pb-20"> &copy; {new Date().getFullYear()} Powered By: <Link href='/Photoshop-Mastery'>LGS Kit</Link> </p>
     </div>
   )
 }

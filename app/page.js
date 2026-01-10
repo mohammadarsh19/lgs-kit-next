@@ -7,3 +7,8 @@ export default function Home() {
         </>
   );
 }
+
+export const metadata = {
+  title: "Home | LGS Kit",
+  description: "Buy the best Ebook in the Market!",
+};
