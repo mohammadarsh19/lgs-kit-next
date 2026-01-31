@@ -47,7 +47,7 @@ export default function LandingPageCarousel() {
                                     height={200}
                                     priority={i === 0}
                                     className="object-cover"
-                                    quality={40}
+                                    quality={45}
                                 />
                             </div>
                         </CarouselItem>
