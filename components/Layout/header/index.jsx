@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Image from 'next/image';
-import Logo from "@/public/LGS-logo.png";
+import Logo from "@/public/LGS-logo.jpeg";
 import Link from 'next/link';
 
 const Header = () => {

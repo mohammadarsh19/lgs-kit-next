@@ -83,11 +83,11 @@ const PhotoshopClient = () => {
       <Reveal>
         <div className="md:max-w-6x1 mx-auto px-3 py-5">
           <div className=' text-black md:w-350 md:mx-auto'>
-            <Image src="/gallery/photoshop13.png"
+            <Image src="/gallery/photoshop16.png"
               width={500}
               height={500}
               alt='photography-image'
-              className='rounded-lg mb-5 md:mx-auto' />
+              className='rounded-lg mb-5 md:mx-auto aspect-square' />
             <h3 className='text-2xl font-bold pb-3'>💡 WHAT YOU'LL LEARN (Key Highlights)</h3>
             <h3 className='text-lg'><strong></strong></h3>
             <p className='pb-3'></p>
@@ -183,44 +183,50 @@ const PhotoshopClient = () => {
             </Reveal>
             <Reveal>
               <div className='bg-white px-3 py-3 rounded-lg mb-3 shadow-lg border-l-4 border-l-cyan-600 border-cyan-600/20 border'>
-                <h4 className='text-lg'><strong>📍Chapter 15: Automation & Speed</strong></h4>
+                <h4 className='text-lg'><strong>📍Chapter 15: Mastering Generative Fill & AI in Photoshop</strong></h4>
+                <p>Learn how to use Photoshop’s AI tools the right way—not as shortcuts, but as creative assistants. This chapter explains Generative Fill, Generative Expand, AI-powered selections, and content-aware tools in simple terms.</p>
+              </div>
+            </Reveal>
+            <Reveal>
+              <div className='bg-white px-3 py-3 rounded-lg mb-3 shadow-lg border-l-4 border-l-cyan-600 border-cyan-600/20 border'>
+                <h4 className='text-lg'><strong>📍Chapter 16: Automation & Speed</strong></h4>
                 <p>Learn how to work faster without stress. This chapter covers actions, batch processing, essential shortcuts, and time-saving habits used by professionals.</p>
               </div>
             </Reveal>
             <Reveal>
               <div className='bg-white px-3 py-3 rounded-lg mb-3 shadow-lg border-l-4 border-l-cyan-600 border-cyan-600/20 border'>
-                <h4 className='text-lg'><strong>📍Chapter 16: Photoshop for Social Media</strong></h4>
+                <h4 className='text-lg'><strong>📍Chapter 17: Photoshop for Social Media</strong></h4>
                 <p>Design content that actually works on social platforms. Learn correct sizes, layouts, export settings, and workflows for Instagram posts, thumbnails, and ad creatives.</p>
               </div>
             </Reveal>
             <Reveal>
               <div className='bg-white px-3 py-3 rounded-lg mb-3 shadow-lg border-l-4 border-l-cyan-600 border-cyan-600/20 border'>
-                <h4 className='text-lg'><strong>📍Chapter 17: Photoshop for Business & Freelancing</strong></h4>
+                <h4 className='text-lg'><strong>📍Chapter 18: Photoshop for Business & Freelancing</strong></h4>
                 <p>Learn how to work like a professional. This chapter covers client-ready files, handling revisions, file naming, organization, and common beginner mistakes that hurt credibility.</p>
               </div>
             </Reveal>
             <Reveal>
               <div className='bg-white px-3 py-3 rounded-lg mb-3 shadow-lg border-l-4 border-l-cyan-600 border-cyan-600/20 border'>
-                <h4 className='text-lg'><strong>📍Chapter 18: Exporting & Saving Correctly</strong></h4>
+                <h4 className='text-lg'><strong>📍Chapter 19: Exporting & Saving Correctly</strong></h4>
                 <p>Learn the right way to save files. Understand JPG vs PNG vs PSD, web vs print exports, and how to compress images without losing quality.</p>
               </div>
             </Reveal>
             <Reveal>
               <div className='bg-white px-3 py-3 rounded-lg mb-3 shadow-lg border-l-4 border-l-cyan-600 border-cyan-600/20 border'>
-                <h4 className='text-lg'><strong>📍Chapter 19: Common Photoshop Problems & Fixes</strong></h4>
+                <h4 className='text-lg'><strong>📍Chapter 20: Common Photoshop Problems & Fixes</strong></h4>
                 <p>Solve real-world problems like lag, crashes, scratch disk errors, and large file issues. This chapter helps you stay productive instead of frustrated.</p>
               </div>
             </Reveal>
             <Reveal>
               <div className='bg-white px-3 py-3 rounded-lg mb-3 shadow-lg border-l-4 border-l-cyan-600 border-cyan-600/20 border'>
-                <h4 className='text-lg'><strong>📍Chapter 20: How to Practice & Improve Faster</strong></h4>
+                <h4 className='text-lg'><strong>📍Chapter 21: How to Practice & Improve Faster</strong></h4>
                 <p>Learn how to build skill consistently. This final chapter covers daily practice routines, learning mindset, mistakes to avoid, and how to become confident—not perfect.</p>
                 <p className='pb-3'>A universal workflow that works for any type of Images.</p>
               </div>
             </Reveal>
             <hr className="text-black"/>
             <Reveal>
-              <Image src="/gallery/photoshop14.png"
+              <Image src="/gallery/photoshop15.png"
                 width={450}
                 height={450}
                 alt='photography-image'
@@ -269,7 +275,7 @@ const PhotoshopClient = () => {
                 <p className='font-semibold'>If you want clarity, confidence, and clean results — this is for you 😎.</p>
               </div>
               <Image
-                src="/gallery/photoshop12.png"
+                src="/gallery/photoshop14.png"
                 width={500}
                 height={500}
                 alt='photography-image'

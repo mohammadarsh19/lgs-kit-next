@@ -16,6 +16,8 @@ const images = [
     "/gallery/photoshop9.jpeg",
     "/gallery/photoshop10.jpeg",
     "/gallery/photoshop11.jpeg",
+    "/gallery/photoshop12.png",
+    "/gallery/photoshop13.png",
 ];
 
 export default function LandingPageCarousel() {

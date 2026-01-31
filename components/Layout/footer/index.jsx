@@ -15,7 +15,7 @@ const Footer = () => {
     <div className="text-lg bg-cyan-900 text-white">
                 <div className="md:flex justify-between md:pl-20">
                     <div className="hidden md:flex h-auto gap-6 relative right-15 md:left-25 top-15">
-                        <Image src="/LGS-logo.png" alt="Logo" width={100} height={100} className="size-20 border rounded-md"/>
+                        <Image src="/LGS-logo.jpeg" alt="Logo" width={100} height={100} className="size-20 border rounded-md"/>
                     </div>
                     <nav className="flex flex-col relative md:right-35 gap-2 pt-2 md:w-55"><h2 className="text-2xl text-center">Footer Menu: </h2>
                         <Link href="/shipping-&-delivery" className= {` ${Pathname === "/shipping-&-delivery" ? "bg-cyan-700/95" : ""} hover:bg-cyan-700/95 px-2 py-1 mx-auto text-center rounded transition duration-300`}>Shipping & Delivery</Link>
