@@ -20,7 +20,7 @@ const PhotoshopClient = () => {
 
   function handleBuyNow() {
 
-    window.location.href = "https://whop.com/checkout/plan_hnRF84w4xCaWu";
+     window.location.href = "https://whop.com/checkout/plan_hnRF84w4xCaWu";
 
     setDisabled(true);
   };
@@ -302,7 +302,7 @@ const PhotoshopClient = () => {
                 <div className='mx-auto w-full md:w-100 space-y-3'>
                   <Reveal>
                     <div className='shadow shadow-bg-white bg-white rounded-md text-center mb-2 h-10 content-center'>
-                      <p><strong> Get this ebook today for Just ₹997 </strong></p>
+                      <p><strong> Get this ebook today for Just $27.00 </strong></p>
                     </div>
                   </Reveal>
                   <Reveal>
@@ -346,30 +346,30 @@ const PhotoshopClient = () => {
           <div className="md:w-220 mx-auto px-4 md:flex justify-evenly flex-wrap space-y-6 md:space-y-6 gap-x-24">
             <Reveal>
               <div className='shadow-lg w-80 mx-auto rounded-lg border border-l-4 border-cyan-600/20 border-l-cyan-600 px-3 space-y-2 py-2'>
-                <p>I finally understand what Aperture and Shutter Speed actually DO.</p>
+                <p>“Explained things very clearly. I finally understand layers and masks properly what they DO”.</p>
                 <div className='flex'><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /></div>
-                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />Shivansh</h4>
+                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />Michael Morgan</h4>
               </div>
             </Reveal>
             <Reveal>
               <div className='shadow-lg w-80 mx-auto rounded-lg border border-l-4 border-cyan-600/20 border-l-cyan-600 px-3 space-y-2 py-2'>
-                <p>“Every beginner should read this before buying expensive lenses</p>
+                <p>“Every beginner should read this before investing time in Photoshop as a career”.</p>
                 <div className='flex'><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><StarHalf className='fill-amber-500 text-amber-500' /></div>
-                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />Piyush Shrivastav</h4>
+                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />Ethan Brooks</h4>
               </div>
             </Reveal>
             <Reveal>
               <div className='shadow-lg w-80 mx-auto rounded-lg border border-l-4 border-cyan-600/20 border-l-cyan-600 px-3 space-y-2 py-2'>
-                <p>I wasted 6 months on YouTube. This book explained everything in one day.</p>
+                <p>I wasted 6 months on YouTube. This book explained everything in one book itself.</p>
                 <div className='flex'><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /></div>
-                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />Ujawal Singh</h4>
+                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />Ryan Parker</h4>
               </div>
             </Reveal>
             <Reveal>
               <div className='shadow-lg w-80 mx-auto rounded-lg border border-l-4 border-cyan-600/20 border-l-cyan-600 px-3 space-y-2 py-2'>
-                <p>My photos instantly improved, especially in low light and portraits.</p>
+                <p>“Beginner friendly but still useful if you already know the basics.”</p>
                 <div className='flex'><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><Star className='fill-amber-500 text-amber-500' /><StarHalf className='fill-amber-500 text-amber-500' /></div>
-                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />Astha Singh</h4>
+                <h4 className='flex gap-3'><Laugh className='text-cyan-600' />James Thompson</h4>
               </div>
             </Reveal>
           </div>
@@ -386,7 +386,7 @@ const PhotoshopClient = () => {
               </AccordionItem>
 
               <AccordionItem value="item-2">
-                <AccordionTrigger>Who this is for?</AccordionTrigger>
+                <AccordionTrigger>Who's this is for?</AccordionTrigger>
                 <AccordionContent>
                   If you want clarity, confidence, and clean results — this is for you.
                 </AccordionContent>
@@ -400,9 +400,9 @@ const PhotoshopClient = () => {
               </AccordionItem>
 
               <AccordionItem value="item-4">
-                <AccordionTrigger>Is this Ebook is for Lifetime?</AccordionTrigger>
+                <AccordionTrigger>for Lifetime?</AccordionTrigger>
                 <AccordionContent>
-                  Yes. It One time Purchase.
+                  Yes. It's One time Purchase.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
