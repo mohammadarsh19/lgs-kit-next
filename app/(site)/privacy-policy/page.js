@@ -63,7 +63,7 @@ const PrivacyPolicy = () => {
         <h3 className="text-3xl">Changes to This Privacy Policy</h3><br />
         <p>We may update this Privacy Policy from time to time, including to reflect changes to our practices or for other operational, legal, or regulatory reasons. We will post the revised Privacy Policy on this website, update the "Last updated" date and provide notice as required by applicable law.</p><br />
         <h3 className="text-3xl">Contact</h3><br />
-        <p>Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call or email us at lgsKit@gmail.com or contact us at GTB Nagar Road Kareli, B-1724/3, Prayagraj, UP, 211016, IN</p><br />
+        <p>Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call or email us at lgsKit11@gmail.com or contact us at GTB Nagar Road Kareli, B-1724/3, Prayagraj, UP, 211016, INDIA</p><br />
       </div>
     </div>
   )

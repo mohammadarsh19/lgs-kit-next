@@ -295,8 +295,8 @@ const PhotoshopClient = () => {
             <div className='md:text-white grid md:grid-cols-[1fr,1fr]'>
               <div className='bg-cyan-600/20 rounded-lg shadow-lg p-6 text-black'>
                 <div>
-                  <p className='py-2 text-[17px]'><strong>📥 Download Your Ebook & Take Full Control of Your Camera</strong></p><hr />
-                  <p className='py-2 text-[17px]'><strong>Ebook pages - 290 pages of Detailed Explaination with Practical Guide..!</strong></p><hr />
+                  <p className='py-2 text-[17px]'><strong>📥 Download Your Ebook & Take Full Control of Photoshop.</strong></p><hr />
+                  <p className='py-2 text-[17px]'><strong>Ebook pages - 305 pages of Detailed Explaination with Practical Guide..!</strong></p><hr />
                   <p className='py-2 text-[17px]'><strong>👉 Stop guessing. Start creating. BUY NOW 🔥</strong></p>
                 </div>
                 <div className='mx-auto w-full md:w-100 space-y-3'>
